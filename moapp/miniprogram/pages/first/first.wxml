@@ -1,0 +1,5 @@
+<form report-submit='true' bindsubmit='formIdHandler'><image src='http://7u2r5e.com2.z0.glb.qiniucdn.com/music_note_big.png' wx:if="{{bgmcontrol==1}}" bindtap="bgmcontrol" class="bgm-control  {{bgmstate[1]==1?'bgmpaused':'bgmrunning'}}" ></image>
+<input id="input1" bindinput="onInputChange_ovk5OK" hidden="{{__input1_hidden}}" placeholder="{{__input1_placeholder}}" value="{{__input1_value}}" style="position:absolute; border:1px solid #ccc; margin-left:auto; margin-right:auto; color:{{__input1_color}}; width:{{__input1_width}}; height:{{__input1_height}}; background:{{__input1_background}}; background-color:{{__input1_backgroundColor}}; left:{{__input1_left}}; top:{{__input1_top}}; right:{{__input1_right}}; bottom:{{__input1_bottom}}; font-size:{{__input1_fontSize}}; font-weight:{{__input1_fontWeight}}; opacity:{{__input1_opacity}}; " >{{__input1_text}}
+</input>
+<button bindtap="onButtonTap_Oapzpx" style="position:absolute; margin-left:auto; margin-right:auto; width:700rpx; left:0rpx; top:500rpx; right:0rpx; " >撩一撩
+</button></form>

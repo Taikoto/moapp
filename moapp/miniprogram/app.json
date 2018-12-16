@@ -1,0 +1,11 @@
+{
+    "pages": [
+        "pages/first/first"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "MoApp Demo",
+        "navigationBarTextStyle": "black"
+    }
+}
